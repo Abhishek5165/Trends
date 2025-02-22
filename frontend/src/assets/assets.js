@@ -137,7 +137,7 @@ import p_img58_2 from "./p_img58_2.webp";
 import p_img58_3 from "./p_img58_3.webp";
 
 import p_img59_1 from "./p_img59_1.webp";
-import p_img59_2 from "./p_img59_2.webp";
+import p_img59 from "./p_img59.webp";
 
 import p_img60_1 from "./p_img60_1.jpg";
 import p_img60_2 from "./p_img60_2.webp";
@@ -591,7 +591,7 @@ export const products = [
     description:
       "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style.",
     price: 599,
-    image: [p_img59_1, p_img59_2],
+    image: [p_img59_1, p_img59],
     category: "Men",
     subCategory: "Topwear",
     sizes: ["S", "M", "L", "XL", "XXL"],
