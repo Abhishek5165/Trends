@@ -137,7 +137,7 @@ import p_img58_2 from "./p_img58_2.webp";
 import p_img58_3 from "./p_img58_3.webp";
 
 import p_img59_1 from "./p_img59_1.webp";
-import p_img59_2 from "./p_img59_2.webp";
+// import p_img59_2 from "./p_img59_2.webp";
 
 import p_img60_1 from "./p_img60_1.jpg";
 import p_img60_2 from "./p_img60_2.webp";
