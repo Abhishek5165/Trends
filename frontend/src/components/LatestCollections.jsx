@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { ShopContext } from '../context/ShopContext'
 import Title from './Title';
-import ProductItems from './ProductItems';
+import Products from './Products';
 
 
 const LatestCollections = () => {
@@ -26,7 +26,7 @@ const LatestCollections = () => {
         {
           latestProducts.map((item, index) => {
             return (
-              <ProductItems
+              <Products
                 key={index}
                 id={item._id}
                 image={item.image}

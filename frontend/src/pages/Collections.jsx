@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import { ShopContext } from '../context/ShopContext';
 import { assets } from '../assets/assets';
 import Title from '../components/Title';
-import ProductItems from '../components/ProductItems';
+import Products from '../components/Products';
 
 const Collections = () => {
 
@@ -128,7 +128,7 @@ const Collections = () => {
           {
             filterProducts.map((item, index) => {
               return (
-                <ProductItems
+                <Products
                   key={index}
                   id={item._id}
                   image={item.image}
