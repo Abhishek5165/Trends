@@ -272,23 +272,23 @@ export const assets = {
 export const MainCarousalData = [
   {
     image:
-      "https://images.bestsellerclothing.in/live/image/catalog/brandstore/bestseller/banners/ol_chillszn_web_30102024.jpg?width=1920&height=760&mode=fill&fill=blur&format=auto",
+      "https://trends.vicinus.ai/storage/administrative-banners/KA/desktop-1.png",
   },
   {
     image:
-      "https://ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/0/10_5.jpg",
+      "https://cdn.pixelbin.io/v2/falling-surf-7c8bb8/original/Trends/Category_Kids/MB_S_RT_Landing_page_Desk_1440_x_470-WFE7zSM7W.png",
   },
   {
     image:
-      "https://ethnicplus.in/media/mageplaza/bannerslider/banner/image/1/2/12_4.jpg",
+      "https://cdn.pixelbin.io/v2/falling-surf-7c8bb8/original/Trends/Category_Kids/Homepage_Top_Banner_Travel_camp_24_jun_25_1440_x_470_02.png",
   },
   {
     image:
-      "https://ethnicplus.in/media/mageplaza/bannerslider/banner/image/9/_/9_8.jpg",
+      "https://cdn.pixelbin.io/v2/falling-surf-7c8bb8/original/Trends/Category_Kids/Homepage_Top_Banner_Travel_camp_24_jun_25_1440_x_470_01.png",
   },
   {
     image:
-      "https://images.bestsellerclothing.in/live/image/catalog/brandstore/bestseller/banners/ol_newin_web_05022025.jpg?width=1920&height=760&mode=fill&fill=blur&format=auto",
+      "https://cdn.pixelbin.io/v2/falling-surf-7c8bb8/original/Trends/Category_Kids/Homepage_Top_Banner_Travel_camp_24_jun_25_1440_x_470_03.png",
   },
 ];
 

@@ -6,14 +6,14 @@ import 'react-alice-carousel/lib/alice-carousel.css';
 
 const Hero = () => {
     const items =  MainCarousalData.map((item)=>{
-        return <img className='cursor-pointer z-0' role='presentation' src={item.image} alt='HeroImage'/>
+        return <img className='h-96 cursor-pointer z-0' role='presentation' src={item.image} alt='HeroImage'/>
     })
   return (
       <AliceCarousel
         items={items}
         autoPlay
         disableButtonsControls
-        autoPlayInterval={2000}
+        autoPlayInterval={1800}
         infinite
     />
   )
