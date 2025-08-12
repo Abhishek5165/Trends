@@ -5,16 +5,19 @@ import 'react-alice-carousel/lib/alice-carousel.css';
 
 
 const Hero = () => {
-    const items =  MainCarousalData.map((item)=>{
-        return <img className='h-96 cursor-pointer z-0' role='presentation' src={item.image} alt='HeroImage'/>
-    })
+  const items = MainCarousalData.map((item) => {
+    return <div class="flex justify-center items-center h-auto cursor-pointer z-0">
+      <img src={item.image} alt="Centered Image" />
+    </div>
+
+  })
   return (
-      <AliceCarousel
-        items={items}
-        autoPlay
-        disableButtonsControls
-        autoPlayInterval={1800}
-        infinite
+    <AliceCarousel
+      items={items}
+      autoPlay
+      disableButtonsControls
+      autoPlayInterval={1800}
+      infinite
     />
   )
 }
